@@ -1,0 +1,108 @@
+Naresh Chaudhary
+Python Backend Developer | FastAPI | API | AI Applications (RAG, LLM)
+📧 n26code@gmail.com | 9717134741 | 9718088849
+🔗 GitHub: github.com/n2coder
+________________________________________
+
+PROFESSIONAL SUMMARY
+
+Python backend-focused developer transitioning from a data-driven recruitment background, with hands-on experience in building APIs and AI-integrated applications using Python, FastAPI, and Django.
+
+Experience includes working with structured data, automating workflows using Python (Pandas, NumPy), and developing backend systems for AI-driven use cases such as recommendation systems, RAG-based applications, and voice assistants.
+
+Strong in understanding real-world problems, system thinking, and applying technology to practical use cases.
+
+TECHNICAL SKILLS
+
+Backend & APIs
+•	Python
+•	FastAPI (Async APIs)
+•	Django & Django REST Framework
+•	REST API Design
+•	API Testing (Pytest / Postman)
+Data Handling
+•	Pandas, NumPy
+•	Data Cleaning & Preprocessing
+•	Basic Data Analysis
+AI Application Development
+•	Retrieval-Augmented Generation (RAG)
+•	LLM
+•	LangChain (working knowledge)
+•	Vector Databases (FAISS, ChromaDB)
+Databases & Tools
+•	PostgreSQL, MongoDB, Redis
+•	Docker
+•	Render
+•	AWS
+•	Github
+________________________________________
+
+PROFESSIONAL EXPERIENCE
+
+Serveprofessionals
+Applied Backend & AI Developer
+Aug 2025 – Present
+
+•	Building backend APIs for AI-driven applications using FastAPI
+•	Developed RAG-based applications integrating vector search and LLMs for domain-specific use cases
+•	Done Prompt Engineering and designed workflows involving data retrieval, processing, and response generation
+•	Built and integrated APIs for voice-based AI systems (STT → LLM → TTS)
+•	Used Redis for managing session-based context and application state
+•	Deployed applications using Docker and cloud platforms (Render / AWS)
+
+Nagarro
+Senior Staff Consultant
+Apr 2023 – Aug 2025
+•	Led sourcing teams and tracked performance metrics, hiring funnels, and recruiter productivity data
+•	Owned and maintained recruitment datasets used for reporting and decision-making
+•	Used Python (Pandas, NumPy) for data cleaning, structuring, and basic analysis
+•	Built small automation scripts to automate reporting and repetitive data tasks
+•	Performed market research and salary benchmarking for critical tech roles
+•	Used AI tools (ChatGPT, Gemini) to structure research and improve insight generation speed
+
+Staff Consultant / Senior Consultant / Recruitment 
+Nagarro / Exarca / Okaya
+Apr 2012 – Apr 2023
+•	Managed end-to-end recruitment lifecycle for IT roles
+•	Worked with hiring managers on requirement planning and execution
+•	Focused on sourcing strategies and candidate evaluation
+
+PROJECTS
+
+👔 Lin.O — AI-Assisted Recruitment Platform (In Progress)
+•	Developed backend for hiring workflows + candidate evaluation logic
+•	Implemented semantic matching (FAISS + embeddings)
+•	Backend: FastAPI + PostgreSQL + Docker + AWS
+________________________________________
+👗 DrapeAI — AI Fashion Recommendation System
+•	Built APIs for personalized outfit recommendations
+•	Designed hybrid recommendation logic + weather-based filtering
+•	Backend: FastAPI + MongoDB + Redis | Flutter app
+________________________________________
+🧠 AI Career Assistant (RAG-Based System)
+•	Built resume analysis + career recommendation APIs
+•	Implemented vector search (ChromaDB + embeddings)
+•	Backend: FastAPI
+________________________________________
+🎬 Voice-Based AI Assistant
+•	Developed STT → LLM → TTS pipeline
+•	Implemented basic conversation flow + context handling
+
+
+
+
+
+EDUCATION
+
+M.Tech — Artificial Intelligence & Machine Learning
+BITS Pilani (Expected 2027)
+
+B.Tech — Computer Science Engineering
+Punjab Technical University
+
+
+CERTIFICATIONS
+•	Python for Data Science (IBM)
+•	SQL & Relational Databases (IBM)
+•	Introduction to Data Science (IBM)
+

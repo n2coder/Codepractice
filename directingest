@@ -1,0 +1,40 @@
+import re
+
+# Step 1: Load file
+def load_document(filepath):
+    with open(filepath, "r", encoding="utf-8") as f:
+        text = f.read()
+    return text
+
+
+# Step 2: Clean text
+def clean_text(text):
+    text = re.sub(r'\s+', ' ', text)  # remove extra spaces
+    return text.strip()
+
+
+# Step 3: Chunking with overlap
+def chunk_text(text, chunk_size=500, overlap=50):
+    chunks = []
+    start = 0
+    text_length = len(text)
+    
+    while start < text_length:
+        end = start + chunk_size
+        chunk = text[start:end]
+        chunks.append(chunk)
+        
+        start += chunk_size - overlap  # move with overlap
+    
+    return chunks
+
+
+# ---- Run everything ----
+filepath = "data/sample.txt"
+
+raw_text = load_document(filepath)
+cleaned_text = clean_text(raw_text)
+chunks = chunk_text(cleaned_text, chunk_size=500, overlap=50)
+
+print(f"Total chunks: {len(chunks)}")
+print(f"{chunks[4]}")
